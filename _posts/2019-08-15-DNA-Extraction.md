@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DNA extractions of *Diploria labyrinthiformis* from Puerto Rico "
+title: "Puerto Rico Brain coral DNA Extraction "
 category: [ Extraction ]
 tags: [ DNA Extraction ]
 ---
