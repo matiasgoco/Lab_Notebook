@@ -24,8 +24,8 @@ tags: [ DNA Extraction ]
 - Label final 1.5mL tubes per sample
 - Warm DNA Elution Buffer or 10mM Tris HCl to 70 degrees C in the thermomixer (you'll need 100ul per sample)
 - After incubation, centrifuge tubes at 12,000 rcf for 1 minute to pellet any debris and beads you may have sucked up
-- Remove supernatant into new 1.5mL tubes (this should be about 300ul). Discard the tube from incubation
-- Add equal volume (300µl) Genomic Binding Buffer to each 1.5mL tube
+- Remove supernatant into new 1.5mL tubes (this should be about 200-300ul). Discard the tube from incubation
+- Add equal volume (200-300µl) Genomic Binding Buffer to each 1.5mL tube
 - Vortex each 1.5mL tube to mix
 - Spin down each 1.5mL tube in the minifuge to collect the liquid
 - Set up one spin column and collection tube per sample
