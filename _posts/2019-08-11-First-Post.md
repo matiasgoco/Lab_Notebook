@@ -1,4 +1,4 @@
 ---
 layout: post
-title:Lab Notebook
+title: Lab Notebook
 ---
