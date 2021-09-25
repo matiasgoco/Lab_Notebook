@@ -5,7 +5,7 @@ category: [ Extraction ]
 tags: [ DNA Extraction ]
 ---
 
-## DNA extractions of *Diploria labyrinthiformis* from Puerto Rico
+## DNA extractions of *Diploria labyrinthiformis* from Puerto Rico  2019-08-15
 
 ### Samples
 
