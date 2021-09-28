@@ -2,7 +2,7 @@
 layout: post
 title: "Puerto Rico Mountainous Star coral DNA Extraction "
 category: [ Extraction ]
-tags: [ DNA Extraction ]
+tags: [ DNA Extraction, Puerto Rico, Orbicella ]
 ---
 
 ## DNA extractions of *Orbicella faveolata* from Puerto Rico 2021-09-28
