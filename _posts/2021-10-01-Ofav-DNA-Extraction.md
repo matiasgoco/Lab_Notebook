@@ -5,7 +5,7 @@ category: [ Extraction ]
 tags: [ DNA Extraction, Puerto Rico, Orbicella ]
 ---
 
-## DNA extractions of *Orbicella faveolata* from Puerto Rico 2021-10-31
+## DNA extractions of *Orbicella faveolata* from Puerto Rico 2021-10-01
 
 ### Samples
 
