@@ -28,7 +28,7 @@ Sample No.   | Sample ID | Mean Qbit [ng/ul] |
 13           |    9EV2   | 129.5  |
 
 
-![10-01-21_DNA Extraction](https://raw.githubusercontent.com/matiasgoco/matiasgoco.github.io/master/images/)
+![10-01-21_DNA Extraction](https://raw.githubusercontent.com/matiasgoco/matiasgoco.github.io/master/images/Ofav_Shallow_Oct_01_21_13_Samples_Labeled.png)
 
 * This protocol modified from DNeasy Blood and Tissue Handbook
 
