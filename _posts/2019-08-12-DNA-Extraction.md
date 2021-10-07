@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puerto Rico Brain coral DNA Extraction "
+title: "Puerto Rico Brain coral DNA Extraction No. 1 "
 category: [ Extraction ]
 tags: [ DNA Extraction ]
 ---
