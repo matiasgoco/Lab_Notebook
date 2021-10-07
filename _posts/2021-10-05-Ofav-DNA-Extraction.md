@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Puerto Rico Mountainous Star coral DNA Extraction "
+title: "Puerto Rico Mountainous Star coral DNA Extraction No. 3 "
 category: [ Extraction ]
 tags: [ DNA Extraction, Puerto Rico, Orbicella ]
 ---
