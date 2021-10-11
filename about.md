@@ -5,9 +5,10 @@ permalink: /about/
 ---
 
 
-### More Information
+### CV
 
-wwww.carlosprada.org
+
+![CV](https://raw.githubusercontent.com/matiasgoco/matiasgoco.github.io/master/images/MG-C_CV.pdf)
 
 ### Contact us
 
