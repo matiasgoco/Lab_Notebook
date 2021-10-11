@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-### CV
+### Curriculum Vitae
 
 
 [CV](https://raw.githubusercontent.com/matiasgoco/matiasgoco.github.io/master/images/MG-C_CV.pdf)
