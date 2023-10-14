@@ -18,9 +18,9 @@ tags: [ DNA Extraction ]
 
 1. Warm DNA elution buffer (10mM tris HCL) to 70 Celsius degrees.
 2. Transfer 20-100 ul of DNA into a 1.5 ml tube. 
-3. Add double the DNA volume (40-200 ul) of DNA binding buffer to each tube
-4. Vortex briefly to mix thouroughly.
-5. Transfer mixture (60-300 ul) to a Zymo spin column.
+3. Add double the DNA volume (40-200 ul) of DNA binding buffer to each tube.
+4. Vortex briefly to mix thoroughly.
+5. Transfer the mixture (60-300 ul) to a Zymo spin column.
 6. Centrifuge for 30 sec at 3,500 – 5,000 x g.
 7. Discard the flow-through.
 8. Add 40-200 ul of DNA wash buffer to the column.
@@ -29,7 +29,7 @@ tags: [ DNA Extraction ]
 11. Centrifuge for 30 sec at 3,500 – 5,000 x g.
 12. Discard the flow-through.
 13. Transfer the column to a 1.5 ml microcentrifuge tube.
-14. Add 20-100 ul of warm DNA elution buffer (10mM tris HCL) directly intro in the column matrix.
+14. Add 20-100 ul of warmed DNA elution buffer (10mM tris HCL) directly intro in the column matrix.
 15. Incubate at Room temp x 1 min.
 16. Centrifuge for 30 sec at 3,500 – 5,000 x g to elute the DNA.
 17. Ultrapure DNA is now ready for use.
