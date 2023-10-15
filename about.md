@@ -8,7 +8,7 @@ permalink: /about/
 ### Curriculum Vitae
 
 
-[CV](https://raw.githubusercontent.com/matiasgoco/matiasgoco.github.io/master/images/G-C_M_CV_Jan_2023.pdf)
+[CV](https://raw.githubusercontent.com/matiasgoco/matiasgoco.github.io/master/images/G-C_M_CV_Oct_2023.pdf)
 
 ### Contact us
 
